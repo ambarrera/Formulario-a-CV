@@ -5,7 +5,7 @@
     height: 180px;
     background-color: grey;
     display: flex;
-    align-items: center;
+    text-align: center;
 }
 
 BODY {
@@ -14,12 +14,13 @@ BODY {
     background-color: seashell
 }
 
-#nombre
+.nombre
 {
     font-family: Bahnschrift SemiBold;
-    font-size: 20px;
-    color: white;
-    text-align: center;
+    font-size: 30px;
+    color: azure;
+    margin-top: 30px;
+    margin: auto;
 }
 
 #parent {
